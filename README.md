@@ -1,1 +1,1 @@
-# NS
+Navier-Stokes solver using MacCormack scheme
